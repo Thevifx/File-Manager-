@@ -1,0 +1,2 @@
+# File-Manager-
+File Explorer is a program for managing the files. Feature includes copy, move, delete files      batch file renaming      output preview      use multi-selection of files      edit text files      search for files      decompress zip, rar -arhivy      manage files on the FTP      access to the computer files      manage files via bluetooth      send files via (Facebook, Twitter,  SMS, Mail, etc.)
